@@ -72,4 +72,4 @@ The end-to-end training/extracting FV-VAE need our modified version of caffe, wh
 
 <img src="./training_prototxt/dq_ucf101_frame_vgg19_split1_visualized.png" width = "60%" />
 
-Please note that in this prototxt, "Normalize", "SampleLoss" and "GaussionLoss" are custom layers, which make the prototxt cannot be run using original caffe.
+Please note that in this prototxt, "Normalize", "SampleLoss" and "GaussionLoss" are custom layers, which make the prototxt cannot be run using original caffe. The detailed training/extracting settings will be released with our custom caffe.
