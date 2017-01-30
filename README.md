@@ -11,7 +11,7 @@ This repository holds the code and models for FV-VAE. The code contains (1) trai
   * [Set image path](#set-image-path-back-to-top)
   * [Extract raw FV-VAE](#extract-raw-fv-vae-back-to-top)
   * [Normalize FV-VAE](#normalize-fv-vae-back-to-top)
-* [Run frame sequence extraction on matlab](run-frame-sequence-extraction-on-matlab-back-to-top)
+* [Run frame sequence extraction on matlab](#run-frame-sequence-extraction-on-matlab-back-to-top)
 * [Training/extracting FV-VAE end-to-end](#trainingextracting-fv-vae-end-to-end-back-to-top)
   
 ----
